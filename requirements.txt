@@ -1,0 +1,11 @@
+numpy==1.24.4
+pandas
+matplotlib==3.9.2
+seaborn
+nltk==3.9.2
+scikit-learn==1.6.1
+scipy
+statsmodels
+tensorflow==2.10.0
+Pillow
+transformers
